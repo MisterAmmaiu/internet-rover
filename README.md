@@ -42,8 +42,10 @@ _Prices updated December 2024_
 
 ### Assembly
 
+<div style="flex">
 <img src="assets/rover_side.jpg" alt="side view of rover" width="400"/>
 <img src="assets/rover_front.jpg" alt="front view of rover" width="218"/>
+</div>
 <br/>
 <br/>
 The parts not easily identifiable in these angles are the 18650 battery holder, the USB
