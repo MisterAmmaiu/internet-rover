@@ -14,9 +14,8 @@ Below is a video of the rover in action. While attending my Advanced Digital Des
 the rover to the classroom where the class was taking place, waved to the professor, and left.
 <br/>
 <br/>
-<video width="618" controls>
-  <source src="assets/demo.mp4" type="video/mp4" >
-</video>
+[![Demo Video](https://raw.githubusercontent.com/misterammaiu/internet-rover/assets/demo_thumbnail.png)]
+(https://raw.githubusercontent.com/misterammaiu/internet-rover/assets/demo.mp4)
 
 ## Hardware
 
