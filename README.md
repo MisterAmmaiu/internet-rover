@@ -43,8 +43,8 @@ _Prices updated December 2024_
 ### Assembly
 
 <div style="flex">
-<img src="assets/rover_side.jpg" alt="side view of rover" width="400"/>
-<img src="assets/rover_front.jpg" alt="front view of rover" width="218"/>
+<img src="assets/rover_side.jpg" alt="side view of rover" width="63.72%"/> 
+<img src="assets/rover_front.jpg" alt="front view of rover" width="34.70%"/>
 </div>
 <br/>
 <br/>
@@ -86,7 +86,7 @@ STUN and TURN, see [this video](https://www.youtube.com/watch?v=4dLJmZOcWFc).
 A diagram of the project architecture is shown below.
 <br/>
 <br/>
-<img src="assets/architecture.png" alt="broad architecture of the project" width="618"/>
+<img src="assets/architecture.png" alt="broad architecture of the project" width="100%"/>
 <br/><br/>
 The rover and controller are both assumed to be behind symmetric NAT-enabled routers, and so the server is used to relay packets
 between the two. Both the rover and the controller must start their connections with the server by sending a repeating heartbeat
@@ -111,13 +111,13 @@ simplicity. The controller uses the [pynput](https://pypi.org/project/pynput/) l
 Below are diagrams detailing the general structure of the tasks run on the rover, controller, and server.
 <br/>
 <br/>
-<img src="assets/rover_tasks.png" alt="task diagram for the rover" width="618"/>
+<img src="assets/rover_tasks.png" alt="task diagram for the rover" width="100%"/>
 <br/>
 <br/>
-<img src="assets/controller_tasks.png" alt="task diagram for the controller" width="618"/>
+<img src="assets/controller_tasks.png" alt="task diagram for the controller" width="100%"/>
 <br/>
 <br/>
-<img src="assets/server_tasks.png" alt="task diagram for the server" width="618"/>
+<img src="assets/server_tasks.png" alt="task diagram for the server" width="100%"/>
 <br/>
 <br/>
 
